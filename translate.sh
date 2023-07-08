@@ -14,75 +14,75 @@ sleep 2
 echo "Please Wait..............."
 echo ""
 echo -ne '[#                       ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/addhost -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/addhost -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[##                      ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/alterarlimite -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/alterarlimite -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[###                     ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/alterarsenha -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/alterarsenha -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[####                    ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/attscript -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/attscript -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[#####                   ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/badvpn -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/badvpn -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[######                  ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/banner -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/banner -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[#######                 ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/blockt -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/blockt -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[########                ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/botssh -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/botssh -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[#########               ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/conexao -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/conexao -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[##########              ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/criarteste -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/criarteste -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[###########             ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/criarusuario -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/criarusuario -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[############            ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/delhost -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/delhost -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[#############           ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/delscript -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/delscript -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[##############          ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/detalhes -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/detalhes -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[###############         ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/expcleaner -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/expcleaner -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[################        ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/infousers -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/infousers -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[#################       ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/menu -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/menu -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[##################      ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/mudardata -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/mudardata -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[###################     ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/otimizar -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/otimizar -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[####################    ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/reiniciarservicos -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/reiniciarservicos -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[#####################   ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/reiniciarsistema -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/reiniciarsistema -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[######################  ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/remover -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/remover -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[####################### ]\r'
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/senharoot -P /tmp/SSH-PLUS-ENG/
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/sshmonitor -P /tmp/SSH-PLUS-ENG/
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/userbackup -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/senharoot -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/sshmonitor -P /tmp/SSH-PLUS-ENG/
+wget -qhttps://raw.githubusercontent.com/minminhein512/Paing-Paing-Hein/main/cdm/userbackup -P /tmp/SSH-PLUS-ENG/
 echo -ne '[########################]\r'
 echo ""
 echo ""
